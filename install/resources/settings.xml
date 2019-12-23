@@ -2182,7 +2182,8 @@ min=0]]></optionscode>
 			<disporder>1</disporder>
 			<optionscode><![CDATA[select
 mail=PHP mail
-smtp=SMTP mail]]></optionscode>
+smtp=SMTP mail
+swiftmailer=SwiftMailer]]></optionscode>
 			<settingvalue><![CDATA[mail]]></settingvalue>
 			<isdefault>1</isdefault>
 		</setting>
